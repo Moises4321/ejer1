@@ -1,0 +1,14 @@
+h1.encabezado{
+    font-size: 200%;
+    background-color: blue;
+    letter-spacing: ;
+    text-align: center;
+}
+body.azul{
+    background-color: gray;
+}
+
+h3{
+    background-color: beige;
+    font-size: 120%;
+}
